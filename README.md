@@ -10,8 +10,8 @@
    > uri : http://localhost:8081 c'est id de premier web service de client je le donne seulement URL et lui il va chercher l'URL directement 
    > Path = /costumers/** içi je le donne le path ou il se trouve il faut qui soit dans le meme niveau que l'autre path de l'autre web service
  ## je fais la configuration de l'autre web service comme suit 
-   > uri : http://localhost:8082 c'est id de deuxieme web service de produit je le donne seulement URL et lui il va chercher l'URL directement 
-   > Path = /products/** içi je le donne le path ou il se trouve 
+    > uri : http://localhost:8082 c'est id de deuxieme web service de produit je le donne seulement URL et lui il va chercher l'URL directement 
+    - Path = /products/** içi je le donne le path ou il se trouve 
   ![image](https://user-images.githubusercontent.com/86606579/207075715-07b48f43-23cb-4432-9990-a99876186359.png)
 # voilà ici comme vous voyez dans le resultat à l'aide de la gatway j'ai pu acceder à les deux micro services au meme temps et c'est ça le role de la gateway c'est connecter deux micro service different
 ## c'est l'execution de micro-service de client :
