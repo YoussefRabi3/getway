@@ -20,6 +20,9 @@
 ## c'est l'execution de micro-service de produits :
    ![image](https://user-images.githubusercontent.com/86606579/207079284-0946eb1a-1af7-4ef2-823d-e3758266163a.png)
    ![image](https://user-images.githubusercontent.com/86606579/207079483-c1a22a80-6f3e-45af-81e2-2cc3482c60b8.png)
+# Voilà le code de deux type de configuration qu'on a une configuration statique et une configuration dynamique :
+ ![image](https://user-images.githubusercontent.com/86606579/207089913-f9d223dc-a176-40f9-a30a-8900ac632644.png)
+
 
 
 
