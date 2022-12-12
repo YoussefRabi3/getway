@@ -1,6 +1,6 @@
 # la Gateway Spring cloud Gateway avec une Configuration statique du système de routage
-## dans ce cas là il fallait faire 2 configuration une configuration dans application proporties et une autre dans application.yml
- > configuration d'une application proporties dans la quelle j'ai donné 
+## Dans ce cas là il fallait faire 2 configuration une configuration dans application proporties et une autre dans application.yml
+ > Configuration d'une application proporties dans la quelle j'ai donné 
    - le nom à le port que je vais utilisé 
    - j'ai donné un nom au micro-service que j'ai appellé gateway-service 
    - et j'ai desactivé l'accès au service EUREKA Avec la commande  spring.cloud.discovery.enabled=true 
