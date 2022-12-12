@@ -22,6 +22,8 @@
    ![image](https://user-images.githubusercontent.com/86606579/207079483-c1a22a80-6f3e-45af-81e2-2cc3482c60b8.png)
 # Voilà le code de deux type de configuration qu'on a une configuration statique et une configuration dynamique :
  ![image](https://user-images.githubusercontent.com/86606579/207089913-f9d223dc-a176-40f9-a30a-8900ac632644.png)
+ # on utilise la configuration statique qu'on veut accéder a des routes qui sont externes à l'application et dont le nom de domaine et déja connu et ne change pas 
+ # Mais quand on a des micro services fonctionnelles dans votre application on principes il voudré mieux faire d'un manière dynamique ou il faut utiliser le service EUREKA SERVER
 
 
 
